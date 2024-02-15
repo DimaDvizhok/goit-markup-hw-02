@@ -18,7 +18,7 @@ img {
 
 body {
   font-family: 'Roboto', sans-serif;
-  color: #2e2f42;
+  color: #434455;
   background-color: #ffffff;
 }
 
@@ -87,20 +87,12 @@ body {
   color: #ffffff;
 }
 .button-stile {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #4d5ae5;
-}
-.button-stile:hover,
-.button-stile:focus {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #404bbf;
-}
-.button-text {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  background: #4d5ae5;
 }
 /* =========/Style-main-section1========= */
 /* =========Style-main-section2========= */
@@ -118,8 +110,11 @@ body {
 }
 /* =========/Style-main-section2========= */
 /* =========Style-main-team========= */
-.team-background {
+.teambackground {
   background-color: #f4f4fd;
+}
+.team-color-back {
+  background-color: #ffffff;
 }
 .team-our-name {
   font-weight: 700;
@@ -174,7 +169,7 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17%;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
