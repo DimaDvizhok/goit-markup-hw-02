@@ -89,6 +89,8 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
   background: #4d5ae5;
+  width: 169px;
+  height: 56px;
 }
 .button-stile:hover,
 .button-stile:focus {
@@ -188,4 +190,3 @@ body {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-/* =========/Style-footer========= */
